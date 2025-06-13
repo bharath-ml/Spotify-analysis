@@ -1,0 +1,12 @@
+# Ignore Python cache and env
+__pycache__/
+*.pyc
+.env
+*.zip
+*.csv
+
+# VSCode specific
+.vscode/
+
+# Jupyter, if any
+.ipynb_checkpoints/
